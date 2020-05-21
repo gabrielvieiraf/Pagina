@@ -11,7 +11,6 @@ Atualmente sou estagiário na empresa [Sensorweb](https://sensorweb.com.br), ond
 ![giphy (1)](https://user-images.githubusercontent.com/48156370/82554073-9bf32380-9b3b-11ea-9e8e-34ae1238c46d.gif)
 
 # O que você vai encontrar por aqui?
-![hacker](https://gph.is/297cNL0)
 
 Sou formado em eletrônica, mas dou uns pitacos em programação, principalmente quando é no meu ramo de microcontroladores 😍
 Gosto bastante de organização, e tenho uma afinidade boa com programação de planilhas para automação de processos em empresas, algo que eu acho deveras importante nos dias atuais. 
