@@ -1,4 +1,4 @@
-# 👨🏻‍💻 Bem vindos à minha Página no Github!
+# 👨🏻‍💻 Bem-vindos à minha página no Github!
 
 Obrigado por acessar meu repositório, fico feliz em ter você por aqui. Sou o Gabriel Vieira Flores, tenho 19 anos e vivo desde que nasci em Florianópolis, capital de Santa Catarina. 
 
