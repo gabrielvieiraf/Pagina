@@ -1,37 +1,13 @@
-## Welcome to GitHub Pages
+# Bem vindos à minha Página no Github!
 
-You can use the [editor on GitHub](https://github.com/gabrielvieiraf/Sobremim/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Obrigado por acessar meu repositório, fico feliz em ter você por aqui. Sou o Gabriel Vieira Flores, tenho 19 anos e vivo desde que nasci em Florianópolis, capital de Santa Catarina. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+![giphy](https://user-images.githubusercontent.com/48156370/82510383-c1067880-9ae0-11ea-9620-623188757a0e.gif)
 
-### Markdown
+Desde pequeno sempre curti o mundo da tecnologia, e sonhava em uma carreira onde eu pudessa trabalhar de frente pro PC. 
+Aos 15 anos entrei para o Instituto Federal de Santa Catarina e me formei aos 19. Atualmente sou estagiário na empresa Sensorweb, onde tenho contato direto com equipamentos que fazem o monitoramento de temperatura e humidade em hospitais do Brasil inteiro!!! Acho meu trabalho animal.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+# O que você vai encontrar por aqui?
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/gabrielvieiraf/Sobremim/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Sou formado em eletrônica, mas dou uns pitacos em programação, principalmente quando é no meu ramo de microcontroladores 😍
+Gosto bastante de organização, e tenho uma afinidade boa com programação de planilhas para automação de processos em empresas, algo que eu acho deveras importante nos dias atuais. 
