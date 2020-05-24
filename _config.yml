@@ -2,9 +2,3 @@ theme: jekyll-theme-cayman
 
 title: Gabriel Vieira
 description: 👨🏻‍💻 Bem-vindos ao meu Github!
-
-navbar-links:
-  About Me: "Sobremim"
-
-btn: 
-  About Me:"Sobremim"
