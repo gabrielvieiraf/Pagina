@@ -18,7 +18,7 @@ main {
   margin: auto;
 }
 
-p {
+c {
   font-size: 1em;
   line-height: 1.75em;
   border-top: 3px solid;
@@ -47,7 +47,7 @@ p {
   }
 }
 //odd number borders
-p:nth-child(odd) {
+c:nth-child(odd) {
   border-right: 3px solid;
   padding-left: 0;
   
@@ -57,7 +57,7 @@ p:nth-child(odd) {
   }
 }
 //even number borders
-p:nth-child(even) {
+c:nth-child(even) {
   border-left: 3px solid;
   padding-right: 0;
   
@@ -67,12 +67,12 @@ p:nth-child(even) {
   }
 }
 //handle first and last
-p:first-child {
+c:first-child {
   border-top: 0;
   border-top-right-radius:0;
   border-top-left-radius:0;
 }
-p:last-child {
+c:last-child {
   border-bottom-right-radius:0;
   border-bottom-left-radius:0;
 }
